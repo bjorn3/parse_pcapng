@@ -1,0 +1,7 @@
+[package]
+authors = ["bjorn3 <bjorn3@users.noreply.github.com>"]
+name = "pcapng_parse"
+version = "0.1.0"
+[dependencies]
+byteorder = "*"
+itertools = "*"
